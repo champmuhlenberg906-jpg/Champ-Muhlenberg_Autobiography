@@ -2,7 +2,7 @@ Champ Muhlenberg
 
 My Life Journey – An Autobiography
 
-![Champ Muhlenberg (1000016838.jpg)
+![ Champ Muhlenberg ]  (1000016838.jpg)
 
 Welcome to my personal autobiography.
 
@@ -17,13 +17,15 @@ My Mission
 To learn, teach, and inspire.
 
 Table of Contents
+## Table of Contents
 
-1. "My Early Life and Background" (autobiography/01-early-life.md)
-2. "My Journey to Rwanda" (autobiography/02-my-journey-to-rwanda.md)
-3. "My University Journey" (autobiography/03-my-university-journey.md)
-4. "My Passion for Technology" (autobiography/04-my-passion-for-technology.md)
-5. "My Goals and Ambitions" (autobiography/05-my-goals-and-ambitions.md)
-6. "My Life Mission and Legacy" (autobiography/06-my-life-mission-and-legacy.md)
+1. [My Early Life and Background](autobiography/01-early-life.md)
+2. [My Journey to Rwanda](autobiography/02-my-journey-to-rwanda.md)
+3. [My University Journey](autobiography/03-my-university-journey.md)
+4. [My Passion for Technology](autobiography/04-my-passion-for-technology.md)
+5. [My Goals and Ambitions](autobiography/05-my-goals-and-ambitions.md)
+6. [My Life Mission and Legacy](autobiography/06-my-life-mission-and-legacy.md)
+7. [Leadership and Community Involvement](autobiography/07-leadership-and-community-involvement.md)
 
 My Vision
 
