@@ -10,7 +10,7 @@ Later, I transferred to Life Foundation. This became an important turning point 
 
 My brother, Freddy Andrew, regularly called me, encouraged me, and helped me with my studies. My sister also supported my education and helped pay my school fees. Their sacrifices and encouragement made a significant difference in my life.
 
-Through determination and their support, I improved academically and continued my education until I graduated from Bishop Marvin Noah High School.
+Through determination and their support, I improved academically and continued my education until I graduated from Bishop Matthew Norwood High School.
 
 After graduation, I received an opportunity to travel from Liberia to Rwanda to continue my education.
 
