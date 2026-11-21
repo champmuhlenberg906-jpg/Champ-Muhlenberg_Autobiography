@@ -1,35 +1,36 @@
-# Champ-Muhlenberg_Autobiography
-My personal autobiography documenting my life, education, experiences, ambitions, and journey toward the future.
-CHAMP MUHLENBERG
+Champ Muhlenberg
 
 My Life Journey – An Autobiography
 
-Welcome to my story!
+"Profile" (images/profile.jpg)
 
-My name is Champ Muhlenberg. This repository is a personal record of my life journey, experiences, education, ambitions, challenges, and dreams for the future.
+Welcome to my personal autobiography.
 
-I believe that every journey has a beginning, every experience teaches a lesson, and every challenge presents an opportunity to grow.
+This repository documents my life story, educational journey, challenges, achievements, passion for technology, and ambitions for the future.
+
+About Me
+
+I am Champ Muhlenberg, born in Liberia and raised in Police Academy, Paynesville, Montserrado County. My journey has taken me from Liberia to Rwanda, where I continue pursuing my education and developing my passion for Software Engineering.
 
 My Mission
 
-My mission is to learn, teach, and inspire.
+To learn, teach, and inspire.
+
+Table of Contents
+
+1. "My Early Life and Background" (autobiography/01-early-life.md)
+2. "My Journey to Rwanda" (autobiography/02-my-journey-to-rwanda.md)
+3. "My University Journey" (autobiography/03-my-university-journey.md)
+4. "My Passion for Technology" (autobiography/04-my-passion-for-technology.md)
+5. "My Goals and Ambitions" (autobiography/05-my-goals-and-ambitions.md)
+6. "My Life Mission and Legacy" (autobiography/06-my-life-mission-and-legacy.md)
 
 My Vision
 
-To become a knowledgeable, innovative, and responsible individual who uses technology, creativity, and knowledge to make a positive difference in the world.
+To become a skilled software engineer, contribute to technological innovation, and inspire others through knowledge, leadership, and service.
 
-About This Autobiography
+---
 
-This autobiography documents:
+Author: Champ Muhlenberg
 
-1. My Early Life and Background
-2. My Educational Journey
-3. My Personal Experiences
-4. Challenges and Lessons Learned
-5. My Passion for Technology
-6. My Goals and Ambitions
-7. My Vision for the Future
-
-This is more than a biography; it is a record of growth, determination, learning, and purpose.
-
-Every great journey begins with a story.
+My story is still being written.
