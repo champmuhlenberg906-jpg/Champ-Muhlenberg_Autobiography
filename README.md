@@ -2,7 +2,7 @@ Champ Muhlenberg
 
 My Life Journey – An Autobiography
 
-"Profile" (images/profile.jpg)
+![Profile (images/profile.jpg)
 
 Welcome to my personal autobiography.
 
